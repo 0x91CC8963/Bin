@@ -1,10 +1,8 @@
-## Mine
-ascii_hash.py - Make stylized ascii art out of any file or archive  
-beattime.lua - OBS Studio script to display the time in Swatch Internet Time  
-funkytown.py - Script for the visualization of the checksum process  
-name.py - Generate a fake machine hex out of any word / phrase  
+# /Fun/
+Scripts that don't have practical use case. 
 
-## Imported
-capstoctrl.reg - Windows Registry script that swaps Caps for CTRL (Unix style)  
-datetime.lua - OBS Studio script for displaying the date / time  
-DD1_TowerStacking_Script_Modified.ahk - AutoHotKey script for automation of tower stacking in Dungeon Defenders  
+`art/` - Scripts that make art (usually in CLI / ascii)  
+`data/` - Scripts that turn data into something else  
+`game-tools/` - Scripts that help in a gaming context (macros)  
+`obs/` - Scripts that can be loaded by OBS-Studio for dynamic elements  
+`tweaks/` - Scripts for tweaking your desktop  
