@@ -1,4 +1,4 @@
-# /Fun/
+# Bin/
 Scripts that don't have practical use case. 
 
 `art/` - Scripts that make art (usually in CLI / ascii)  
